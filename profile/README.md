@@ -1,5 +1,3 @@
-# Centrova
-
 ![Centrova Banner](../centrova-developer-banner.png) <!-- opsional, bisa diganti banner -->
 
 ## Open. Collaborative. Adaptive.
