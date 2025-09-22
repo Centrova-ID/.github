@@ -16,10 +16,10 @@ Ke depan, Centrova juga berkomitmen mengembangkan inovasi di bidang **Artificial
 
 Komunitas terbuka adalah inti dari inovasi. Jika kamu ingin ikut berkontribusi dalam perjalanan Centrova, ada banyak cara untuk terlibat:
 
-- ✨ [Jelajahi proyek-proyek open source Centrova](https://github.com/centrova)  
-- 👩‍💻 [Cari peluang kontribusi "good first issue"](https://github.com/centrova)  
+- ✨ [Jelajahi proyek-proyek open source Centrova]([https://github.com/centrova](https://github.com/Centrova-ID))  
+- 👩‍💻 [Cari peluang kontribusi "good first issue"]([https://github.com/centrova](https://github.com/Centrova-ID))  
 - ☁️ Ajukan penggunaan *credits* untuk project open source (coming soon)  
-- 🐛 Gunakan [repository issues](https://github.com/centrova) untuk melaporkan bug atau bertanya seputar repositori spesifik  
+- 🐛 Gunakan [repository issues]([https://github.com/centrova](https://github.com/Centrova-ID)) untuk melaporkan bug atau bertanya seputar repositori spesifik  
 
 Kunjungi [centrova.id](https://centrova.id) untuk informasi lebih lanjut.  
 
@@ -47,6 +47,6 @@ Kami percaya transformasi digital adalah keniscayaan, dan Centrova hadir untuk m
 ## Code of Conduct
 
 Seluruh proyek di bawah naungan Centrova mengikuti [Centrova Open Source Code of Conduct](https://github.com/centrova/.github/blob/main/CODE_OF_CONDUCT.md).  
-Untuk informasi lebih lanjut, silakan lihat [Code of Conduct FAQ](https://github.com/centrova).  
+Untuk informasi lebih lanjut, silakan lihat [Code of Conduct FAQ]([https://github.com/centrova](https://github.com/Centrova-ID)).  
 
 ---
