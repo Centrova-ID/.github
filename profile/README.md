@@ -14,10 +14,10 @@ Ke depan, Centrova juga berkomitmen mengembangkan inovasi di bidang **Artificial
 
 Komunitas terbuka adalah inti dari inovasi. Jika kamu ingin ikut berkontribusi dalam perjalanan Centrova, ada banyak cara untuk terlibat:
 
-- ✨ [Jelajahi proyek-proyek open source Centrova]([https://github.com/centrova](https://github.com/Centrova-ID))  
-- 👩‍💻 [Cari peluang kontribusi "good first issue"]([https://github.com/centrova](https://github.com/Centrova-ID))  
-- ☁️ Ajukan penggunaan *credits* untuk project open source (coming soon)  
-- 🐛 Gunakan [repository issues]([https://github.com/centrova](https://github.com/Centrova-ID)) untuk melaporkan bug atau bertanya seputar repositori spesifik  
+- [Jelajahi proyek-proyek open source Centrova]([https://github.com/centrova](https://github.com/Centrova-ID))  
+- [Cari peluang kontribusi "good first issue"]([https://github.com/centrova](https://github.com/Centrova-ID))  
+- Ajukan penggunaan *credits* untuk project open source (coming soon)  
+- Gunakan [repository issues]([https://github.com/centrova](https://github.com/Centrova-ID)) untuk melaporkan bug atau bertanya seputar repositori spesifik  
 
 Kunjungi [centrova.id](https://centrova.id) untuk informasi lebih lanjut.  
 
