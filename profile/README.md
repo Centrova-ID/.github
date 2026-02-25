@@ -25,7 +25,7 @@ Kunjungi [centrova.id](https://centrova.id) untuk informasi lebih lanjut.
 
 ## About Centrova
 
-> Visi kami adalah menjadi Platform Teknologi terbaik yang menyefiakan inovasi, layanan terbaik, dan memberdayakan setiap orang diseluruh dunia melalui solusi digital.  
+> Visi kami adalah menjadi platform teknologi terbaik yang menyediakan inovasi, layanan terbaik, dan memberdayakan setiap orang di seluruh dunia melalui solusi digital.
 
 Kami percaya transformasi digital adalah keniscayaan, dan Centrova hadir untuk memberikan solusi terintegrasi yang bisa beradaptasi dengan kebutuhan lintas sektor.  
 
